@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zene.space">
-    <img src="/images/zene_black.png" alt="zene.space Logo" width="200" height="200">
+    <img src="/images/z_umso.png" alt="zene.space Logo" width="200" height="200">
   </a>
 </p>
 
